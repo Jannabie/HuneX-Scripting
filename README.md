@@ -80,7 +80,7 @@ Title image/ = examples.
 |-----------|--------|-------------|
 | `.hfa` | HuneX File Archive | None |
 | `.ctd` | Script text | LenZuCompressor (LZ77 + Huffman, LSB-first) |
-| `.cbg` | Background image | Huffman + zero-alternate + delta filter |
+| `.cbg` | Background image  / UI | Huffman + zero-alternate + delta filter |
 | `.mzp` | Sprite / CG image | MZX tiles (RLE + LZ + Huffman) |
 
 ---
