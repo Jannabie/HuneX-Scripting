@@ -19,7 +19,7 @@ Built for fan translation purposes — **Moonlit Translation**.
 |------|-------------|
 | `hfa_tool.py` | Unpack / Repack `.hfa` archives |
 | `ctd_tool.py` | Decompress / Compress `.ctd` script files |
-| `cbg_tool.py` | Decode / Encode `.cbg` background images |
+| `cbg_tool.py` | Decode / Encode `.cbg` background images / UI|
 | `mzp_tool.py` | Decode / Encode `.mzp` sprite / CG images |
 
 ---
