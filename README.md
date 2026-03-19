@@ -1,7 +1,7 @@
 # WoTH Tools
 
 File tools for **Witch on the Holy Night (Mahoyo) Remastered** (Steam).  
-Built for fan translation purposes — **Moonlit Translation**.
+Built for fan translation purposes — **Moonlit Translation**. Title image/ = examples.
 
 ---
 
