@@ -1,7 +1,7 @@
 # WoTH Tools
 
 File tools for **Witch on the Holy Night (Mahoyo) Remastered** (Steam).  
-Built for fan translation purposes — **Moonlit Translation**. Title image/ = examples.
+Built for fan translation purposes — **Moonlit Translation**.
 
 ---
 
@@ -67,6 +67,8 @@ python mzp_tool.py info    img0499.mzp
 python mzp_tool.py decode  img0499.mzp
 python mzp_tool.py encode  output.png  img0499.mzp
 ```
+
+Title image/ = examples.
 
 > For `encode`, the original `.mzp` must be provided as a reference for tile parameters.
 
