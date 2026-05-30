@@ -12,7 +12,7 @@ Kumpulan tool untuk membongkar dan membangun ulang file-file dari game **Witch o
 
 ---
 
-## Struktur File
+## Struktur Files
 
 Game ini menggunakan empat format file proprietary yang masing-masing menangani jenis aset berbeda. Repo ini menyediakan tool Python untuk setiap formatnya.
 
