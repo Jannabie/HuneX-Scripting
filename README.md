@@ -4,7 +4,7 @@ A collection of tools for unpacking and rebuilding files from **Witch on the Hol
 
 ---
 ## Result Comparison
-| In-Game (English) | Decoded MZP |
+| In-Game (Indonesian) | Decoded MZP |
 |---|---|
 | ![ingame](https://i.imgur.com/1nPcH5G.png) | ![decoded](https://i.imgur.com/FE3c6MK.png) |
 
